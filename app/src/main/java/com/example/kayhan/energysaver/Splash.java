@@ -13,6 +13,9 @@ public class Splash extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
     }
+    public void testApp(){
+        int i = 0;
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
