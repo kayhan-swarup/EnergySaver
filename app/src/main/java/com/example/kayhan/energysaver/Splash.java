@@ -15,6 +15,8 @@ public class Splash extends ActionBarActivity {
     }
     public void testApp(){
         int i = 0;
+
+        int kayhan = 0;
     }
 
     @Override
