@@ -22,6 +22,7 @@ public class Splash extends ActionBarActivity {
         //asdadssa
         // test push from kayhan
         // git push from Rahim
+        //test 4 from kayhan to check that rahim's merge working fine
     }
 
     @Override
