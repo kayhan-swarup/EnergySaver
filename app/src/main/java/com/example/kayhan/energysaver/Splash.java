@@ -1,9 +1,9 @@
  package com.example.kayhan.energysaver;
 
-import android.support.v7.app.ActionBarActivity;
-import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+ import android.os.Bundle;
+ import android.support.v7.app.ActionBarActivity;
+ import android.view.Menu;
+ import android.view.MenuItem;
 
 
 public class Splash extends ActionBarActivity {
@@ -17,6 +17,7 @@ public class Splash extends ActionBarActivity {
         int i = 0;
 
         int kayhan = 0;
+        int pushed = 0;
     }
 
     @Override
