@@ -18,7 +18,9 @@ public class Splash extends ActionBarActivity {
 
         int kayhan = 0;
         int pushed = 0;
+
         //asdadssa
+        // test push from kayhan
     }
 
     @Override
